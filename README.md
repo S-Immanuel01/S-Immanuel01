@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Immanuel01
 - 👀 I’m interested in ... Challenging myself 
-- 🌱 I’m currently learning ... Flutter, Java, JavaScript, Html and Css
+- 🌱 I’m currently learning ... Flutter, Java, JavaScript, HTML and Css
 - 📫 How to reach me ...
 
 
